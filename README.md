@@ -1,8 +1,7 @@
 # Hour-to-Hex
 Hours to hexadecimal
 
-Converts the current time and converts it in a hexadecimal color, and that color
-will be the background color of the html page.
+Converts the current time in a hexadecimal color, and sets it as the background color of the html page.
 
 ## Author
 Leonardo Chirivì
